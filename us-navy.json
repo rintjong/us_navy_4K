@@ -1,0 +1,271 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "1611738879328835_1611750965994293x",
+      "main_ads_intertitial":"1611738879328835_1611739805995409x",
+      "main_ads_rewards":"null",
+      "main_ads_natives":"1611738879328835_1611740232662033x",
+      "backup_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+      "backup_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"null",
+      "open_ads_admob":"null",
+      "open_ads_alien":"null",
+      "open_ads_max":"null",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+   
+    }
+  ],
+   "More":
+  [
+    {
+			"id": 1,
+			"title": "Cool Aesthetic Wallpaper ",
+			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
+		},
+		{
+			"id": 2,
+			"title": "4K HD Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
+		},
+		{
+			"id": 3,
+			"title": "Islamic Aesthetic Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/EsxGalCWZAKvCBaY1UOldvz1oWIasRdQs10aH9Zegj_qY2Hwr7_z1V3xSRQLIlhvAW8=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.islamicwallpaper4k"
+		}
+	],
+
+  "Categories": [
+		{
+			"id": 1,
+			"name_category": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/2d/74/e3/2d74e3d5ffe4c47162f69f954518edb5.jpg"
+		}
+	],
+  "Data": [
+		{
+			"id": 1,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/b2/93/c9/b293c956105a8dd67fdf1e95740b2ad9.jpg",
+			"lock":false
+		},
+		{
+			"id": 2,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/28/bf/d3/28bfd3ab3c6c5f8467360f4c02019f6e.jpg",
+			"lock":false
+		},
+		{
+			"id": 3,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/c7/03/cc/c703cc4ea068f13be1e60a0661ceb103.jpg",
+			"lock":false
+		},
+		{
+			"id": 4,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/b2/cd/2c/b2cd2c521fade70c4017472efb06f780.jpg",
+			"lock":false
+		},
+		{
+			"id": 5,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/12/ba/8a/12ba8aa33c2e4b50a0b7e93d3cde59e6.jpg",
+			"lock":false
+		},
+		{
+			"id": 6,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/1d/12/78/1d127842a75acc09226d9a8a427f67dd.jpg",
+			"lock":false
+		},
+		{
+			"id": 7,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/33/b0/fe/33b0fe931eafafeb8221a6bb358391e9.jpg",
+			"lock":false
+		},
+		{
+			"id": 8,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/20/d7/f9/20d7f961b51d180f7adedeb893bce652.jpg",
+			"lock":false
+		},
+		{
+			"id": 9,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/56/df/08/56df08a45294d45ef7ad5a74c687cb76.jpg",
+			"lock":false
+		},
+		{
+			"id": 10,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/f8/b8/5c/f8b85c6135ee8ae9bbba242bd8291ec9.jpg",
+			"lock":false
+		},
+		{
+			"id": 11,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/2c/0c/b2/2c0cb2333cd5bbce5ad1d90580a1bbe6.jpg",
+			"lock":false
+		},
+		{
+			"id": 12,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/8f/24/cd/8f24cd5c63bfa5a5596a5307d0bee062.jpg",
+			"lock":false
+		},
+		{
+			"id": 13,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/50/0a/36/500a36a65d0fb68a512fcc5674116f9f.jpg",
+			"lock":false
+		},
+		{
+			"id": 14,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/a7/49/78/a74978a7ce20307d956a379a71e78ea7.jpg",
+			"lock":false
+		},
+		{
+			"id": 15,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/75/a5/b4/75a5b4a9e70f87dc008a48187204929c.jpg",
+			"lock":false
+		},
+		{
+			"id": 16,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/ae/b9/50/aeb9500f999cd76f1035f96955d7ce7e.jpg",
+			"lock":false
+		},
+		{
+			"id": 17,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/96/4e/c0/964ec089a2d8460b6260193b3bf08495.jpg",
+			"lock":false
+		},
+		{
+			"id": 18,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/e3/12/12/e312126f6a27c6324e4aa9ebcf7c143e.jpg",
+			"lock":false
+		},
+		{
+			"id": 19,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/5a/9c/6a/5a9c6adf0343d2302e7523a47c53d705.jpg",
+			"lock":false
+		},
+		{
+			"id": 20,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/d0/d9/c3/d0d9c3c38fc53381ce31cddb4a5e52ac.jpg",
+			"lock":false
+		},
+		{
+			"id": 21,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/f5/31/6a/f5316a18f174f6852409ab27ba0a3fca.jpg",
+			"lock":false
+		},
+		{
+			"id": 22,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/be/e8/88/bee88862bbd21cdee60f68b08d5a55fe.jpg",
+			"lock":false
+		},
+		{
+			"id": 23,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/f2/c4/c4/f2c4c4c4694c7f68e09bc4f58ad87ec5.jpg",
+			"lock":false
+		},
+		{
+			"id": 24,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/53/e6/4f/53e64fdbb37c51083f3a803f7cdd3b02.jpg",
+			"lock":false
+		},
+		{
+			"id": 25,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/b2/64/fd/b264fd8844e92bbe3a13814693b51ac2.jpg",
+			"lock":false
+		},
+		{
+			"id": 26,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/6f/ef/2a/6fef2a407144bbbab8c3725d4aa1fa0b.jpg",
+			"lock":false
+		},
+		{
+			"id": 27,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/8f/66/73/8f6673623ae142eab774a21c807ff8b5.jpg",
+			"lock":false
+		},
+		{
+			"id": 28,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/65/18/a9/6518a945e441f22f4f716eae52d4e701.jpg",
+			"lock":false
+		},
+		{
+			"id": 29,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/34/d1/c9/34d1c975eb71576ace982f4478b0a8cd.jpg",
+			"lock":false
+		},
+		{
+			"id": 30,
+			"name_category": "US Navy Seal",
+			"title": "US Navy Seal",
+			"image": "https://i.pinimg.com/736x/ac/bb/1f/acbb1ff16273397e8d61ab6cf6524495.jpg",
+			"lock":false
+		}
+	]
+}
